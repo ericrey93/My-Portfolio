@@ -63,7 +63,9 @@ img {
     color:rgba(148, 148, 15, 0.632);
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
-
+#project {
+    font-size: 30px;
+}
 
 @media screen and (max-width:1200px) {
     h1 {
